@@ -1,0 +1,13 @@
+crime_type,location,latitude,longitude,date,time,risk
+Robbery,T Nagar,13.0418,80.2337,2026-04-01,22:00,95
+Theft,Anna Nagar,13.0850,80.2101,2026-04-01,21:00,78
+Harassment,Guindy,13.0100,80.2209,2026-04-02,20:30,88
+Assault,Velachery,12.9750,80.2200,2026-04-02,23:00,91
+Robbery,Tambaram,12.9249,80.1000,2026-04-03,21:30,94
+Theft,Adyar,13.0063,80.2574,2026-04-03,19:00,72
+Harassment,Mylapore,13.0368,80.2676,2026-04-04,22:00,85
+Assault,Chromepet,12.9516,80.1462,2026-04-04,23:30,90
+Vandalism,Porur,13.0358,80.1573,2026-04-05,20:00,65
+Robbery,Sholinganallur,12.9010,80.2279,2026-04-05,21:00,92
+Theft,Perambur,13.1185,80.2360,2026-04-06,22:30,75
+Harassment,Kodambakkam,13.0533,80.2209,2026-04-06,20:00,83

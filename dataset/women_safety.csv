@@ -1,0 +1,7 @@
+location,latitude,longitude,risk,time_slot
+T Nagar,13.0418,80.2337,85,night
+Guindy,13.0100,80.2209,90,late_night
+Tambaram,12.9249,80.1000,88,night
+Velachery,12.9750,80.2200,75,evening
+Mylapore,13.0368,80.2676,80,night
+Chromepet,12.9516,80.1462,82,late_night
