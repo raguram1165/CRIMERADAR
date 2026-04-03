@@ -1,4 +1,4 @@
-# 🛡️ RedShield AI — Smart Policing Platform
+# 🛡️ CRIMERADAR AI — Smart Policing Platform
 
 > Hackathon-grade AI-powered public safety platform built with Flask, Leaflet, Chart.js, OpenCV & scikit-learn.
 
