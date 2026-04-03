@@ -1498,6 +1498,19 @@ window.addEventListener('DOMContentLoaded', () => {
   drawPatrolRoute();  // auto-generate patrol on load
   toast('✅CRIMERADAR AI Platform loaded — All systems operational');
 });
+   ...
+  <script src="assets/app.js"></script>
+
+  <!-- ADD THIS BELOW -->
+  <script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker
+        .register("/static/sw.js")
+        .then(() => console.log("SW Registered"))
+        .catch((err) => console.log("SW Error", err));
+    });
+  }
 </script>
 </body>
 </html>
