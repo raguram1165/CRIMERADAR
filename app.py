@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='assets', static_url_path='/assets')
 
 FIR_FILE = "dataset/fir_data.csv"
 ACCIDENT_FILE = "dataset/accident_data.csv"
